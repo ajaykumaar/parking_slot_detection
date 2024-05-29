@@ -8,7 +8,7 @@ Last Updated: 5/24/24
 import cv2
 import os
 import re
-import numpy as np
+# import numpy as np
 
 slot_coordinates_path = "slot_coordinates.txt"
 img_path = "empty_slot_img.png"
